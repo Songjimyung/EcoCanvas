@@ -1,5 +1,5 @@
  #--- 제목(title) - 50자 이내로 ---
- <타입> <제목>
+ 타입 : 제목
  #예시(ex) : Docs : README.md 수정
  #--- 본문(content) - 72자마다 줄바꾸기  ---
  ---본문---
@@ -9,7 +9,7 @@
  #2. commit message docs add.
  #--- 꼬리말(footer) ---
  --- 꼬리말 ---
- 
+
  #<타입(type)> <이슈 번호(issue number)>
  #예시(ex) : Fix 
  #--- COMMIT END ---
